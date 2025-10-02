@@ -2,7 +2,7 @@
 
 A simple Java console app that simulates rolling one or more dice and displays each roll with fun ASCII-art visuals! The app also calculates the total of the rolled dice.
 
----
+--
 
 ## 💡 Features
 - Roll as many dice as you want.
